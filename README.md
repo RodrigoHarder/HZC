@@ -28,11 +28,11 @@ Durante o desenvolvimento do site da Barbearia Alura foram explorados alguns con
 <p>A aplicação apresenta, até o momento, duas páginas, sendo ambas responsivas em versões mobile e desktop.</p>
 <p>Elas apresentam um menu lateral oculto na versão mobile que fica fixo na versão desktop, uma série de cartões que apresentam informações de vídeos, produtos, artes e localizações distribuidas na tela por meio da orientação de um grid.</p>
 
--Versão Mobile:
-![Site da HZC mostrando a página inicial e a página de picos](./assets/videos/HZC_mobile.gif) 
+<p><strong>Versão Mobile</strong></p>
+<img alt="Site da HZC mostrando a página inicial e a página de picos" src="./assets/videos/HZC_mobile.gif">
 
--Versão Desktop:
-![Site da HZC mostrando a página inicial e a página de picos](./assets/videos/HZC_desktop.gif) 
+<p><strong>Versão Desktop</strong></p>
+<img alt="Site da HZC mostrando a página inicial e a página de picos" src="./assets/videos/HZC_desktop.gif">
 
 ## **Como usar os arquivos?**
 
