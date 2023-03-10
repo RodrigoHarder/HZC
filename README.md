@@ -13,8 +13,6 @@ Desenvolvimento da página **Início** e da página de **Picos** do site da HZC.
 
 ## **Aprendizagens** 
 
-Durante o desenvolvimento do site da Barbearia Alura foram explorados alguns conceitos, que possibilitaram a aprendizagem dos seguintes conhecimentos:
-
 - Uso da tag `<article>` para criar cartões
 - Uso do método toggle para criar um menu lateral oculto
 - Incorporar ícones como fontes à página, fazendo uso de pseudo-elementos para mostrar tais ícones ( `::before` `::after` )
